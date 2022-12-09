@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\h.aishwarya\\Desktop\\c# workspace\\BasicSql\\BasicSql\\BasicSql.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\h.aishwarya\\Desktop\\c# workspace\\BasicSql\\BasicSql\\BasicSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\h.aishwarya\\Desktop\\c# workspace\\BasicSql\\BasicSql\\BasicSql.csproj",
+        "projectName": "BasicSql",
+        "projectPath": "C:\\Users\\h.aishwarya\\Desktop\\c# workspace\\BasicSql\\BasicSql\\BasicSql.csproj",
+        "packagesPath": "C:\\Users\\h.aishwarya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\h.aishwarya\\Desktop\\c# workspace\\BasicSql\\BasicSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\h.aishwarya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
